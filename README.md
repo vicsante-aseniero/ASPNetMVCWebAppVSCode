@@ -1,4 +1,4 @@
-# ASPNetMVCWebAppVSCode
+# ASP.Net MVC WebApp using Visual Studio Code
 ASP.Net MVC 5 Web App using VS Code
 - Created using Yeoman "yo aspnet"
 
